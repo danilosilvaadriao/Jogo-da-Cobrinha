@@ -12,7 +12,7 @@ Esse joguinho foi desenvolvido com HTML, CSS e JavaScript, proposto em um bootca
   - [CSS3](https://www.w3.org/TR/css3-roadmap/)
   - [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
   
-  # IDE de Desenvolvimento
+  ## IDE de Desenvolvimento
   - [Visual Studio Code](https://code.visualstudio.com/)
   
   ---
