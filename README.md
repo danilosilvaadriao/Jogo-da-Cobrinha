@@ -5,8 +5,9 @@
 Esse joguinho foi desenvolvido com HTML, CSS e JavaScript, proposto em um bootcamp na Digital Innovation One (DIO). <br><br>
 
 <h2> Gif do desafio: <h2> <br>
+ 
+![jogo snake game](https://user-images.githubusercontent.com/82722083/154581119-eac7e77b-4b0f-44ff-8e41-0fe642140fe6.gif)
 
-![SNAKE GAME](https://user-images.githubusercontent.com/82722083/139770731-3ddb882e-b86a-42fa-9e1a-6b173d260ef5.gif)
  ## Tecnologias
   - [HTML5](https://html.spec.whatwg.org/multipage/)
   - [CSS3](https://www.w3.org/TR/css3-roadmap/)
